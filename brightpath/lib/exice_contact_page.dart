@@ -14,7 +14,7 @@ class _ExciseContactPageState extends State<ExciseContactPage> {
   final Map<String, List<String>> regions = {
     'Southern Region': [
       'Thiruvananthapuram',
-      'Kollam',
+      'Kolla',
       'Pathanamthitta',
       'Alappuzha',
       'Kottayam',
