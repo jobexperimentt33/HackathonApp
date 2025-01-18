@@ -15,7 +15,8 @@ class _CommunityPageState extends State<CommunityPage> {
     return Scaffold(
       appBar: AppBar(
         title: Row(
-          mainAxisAlignment: MainAxisAlignment.center,
+          mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+          fontWeight:FontWeight('')
           children: [
             const Text("BrightPath"),
             const Icon(Icons.alarm)
